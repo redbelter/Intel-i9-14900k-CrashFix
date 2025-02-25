@@ -7,3 +7,5 @@ First install: https://www.intel.com/content/www/us/en/download/17881/intel-extr
 Then run this program to navigate the utility and set it to 5ghz.
 
 You're done!
+
+Sidenote: fuck you intel
